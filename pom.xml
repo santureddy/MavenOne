@@ -24,8 +24,8 @@
 <distributionManagement>
     <repository>
         <id>central</id>
-        <name>inh-kunadis-releases</name>
-        <url>http://localhost:8088/artifactory/libs-release-local</url>
+        <name>d-releng-11-releases</name>
+        <url>http://172.29.254.177:8081/artifactory/libs-release-local</url>
     </repository>
 </distributionManagement>
 </project>
